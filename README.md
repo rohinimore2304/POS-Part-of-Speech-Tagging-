@@ -7,7 +7,7 @@ import nltk
 nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 
-text = "ChatGPT is an AI language model."
+text = "Chatbot is an AI language model."
 tokens = word_tokenize(text)
 
 # 2. POS Tagging
